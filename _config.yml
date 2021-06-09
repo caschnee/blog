@@ -34,7 +34,7 @@ plugins:
   - jekyll-sitemap
 markdown: kramdown
 permalink: /:year/:month/:title:output_ext
-google_analytics: G-6PMZN84FW6
+google_analytics: UA-198871948-2
 
 # Exclude from processing.
 # The following items will not be processed, by default.
